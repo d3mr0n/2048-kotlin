@@ -23,6 +23,8 @@ On the home screen you can toggle the Sounds, Undo, and Swipe Anywhere
         (not just on the board).
 
 ## Screenshots 
-<img src="/Screenshots/1.png"/>
-<img src="/Screenshots/2.png"/>
-<img src="/Screenshots/3.png"/>
+<p align="center">
+<img src="/Screenshots/1.png" width="30%"/>
+<img src="/Screenshots/2.png" width="30%"/> 
+<img src="/Screenshots/3.png" width="30%"/> 
+</p>
