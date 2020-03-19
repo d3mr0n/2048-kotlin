@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2048-kotlin.iml" filepath="$PROJECT_DIR$/.idea/2048-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2048-kotlin-master.iml" filepath="$PROJECT_DIR$/2048-kotlin-master.iml" group="2048-kotlin-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/2048-kotlin-master-app.iml" filepath="$PROJECT_DIR$/app/2048-kotlin-master-app.iml" group="2048-kotlin-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
